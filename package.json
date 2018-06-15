@@ -1,0 +1,23 @@
+{
+  "name": "stibarc",
+  "version": "1.0.0",
+  "description": "A module for interacting with the STiBaRC web API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STiBaRC/stinode.git"
+  },
+  "keywords": [
+    "stibarc",
+    "api"
+  ],
+  "author": "Joshua Herron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/STiBaRC/stinode/issues"
+  },
+  "homepage": "https://github.com/STiBaRC/stinode#readme"
+}
